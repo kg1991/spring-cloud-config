@@ -1,2 +1,2 @@
- my:
-  prop: Development Environment github 
+ mygithub:
+      profileprop: Development Environment github 
